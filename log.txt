@@ -1,0 +1,29 @@
+commit 273af8d2451fe75a786574e9c8af3f2d004bbe83
+Author: telsaiori <telsaiori@gmail.com>
+Date:   Wed Apr 13 17:13:20 2016 +0000
+
+    remove unnecessary file
+
+commit bf0f60368be038faf72b4ba22cb62c75c4e7d474
+Author: telsaiori <telsaiori@gmail.com>
+Date:   Wed Apr 13 16:54:30 2016 +0000
+
+    add completed? and not_finish_item method
+
+commit e203b61c30b35359d15d142f445a9b0a4a27a5fb
+Author: telsaiori <telsaiori@gmail.com>
+Date:   Wed Apr 13 10:25:54 2016 +0000
+
+    add write_to_file method
+
+commit 0f27c12c597afd645f7f80b819151e13d165324a
+Author: telsaiori <telsaiori@gmail.com>
+Date:   Wed Apr 13 09:02:48 2016 +0000
+
+    add del_item and update_status method
+
+commit 39bf9f12d652d6abd021a03bdef890d222f19918
+Author: telsaiori <telsaiori@gmail.com>
+Date:   Wed Apr 13 07:17:38 2016 +0000
+
+    add print_items method
